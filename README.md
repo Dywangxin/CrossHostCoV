@@ -1,5 +1,5 @@
 # CrossHostCoV
-Core code and supplementary data for the manuscript _"A Proactive AI-Experimental Framework Identifies and Validates 31 Animal Coronaviruses with Human Infectivity Potential_"
+Core code and supplementary data for the manuscript _"A Proactive AI-Experimental Framework Identifies and Validates 31 Coronaviruses with Human Infectivity Potential_"
 
 # CoreCode
 The py code is for model training and prediction.
