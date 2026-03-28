@@ -148,7 +148,7 @@ def train_and_predict(filepath,model,model_name):
 random_state_seed=42
 if __name__ == "__main__":
     #llm1 IO - RNAErnie
-    # src：https://kkgithub.com/CatIIIIIIII/RNAErnie/tree/v1.0
+    # src：https://github.com/CatIIIIIIII/RNAErnie
     # [NMI]: https://www.nature.com/articles/s42256-024-00836-4
     generate_input_for_llm1(infile='CrossHost_preMatrix_ORF.csv') #prepare input for RNAErnie
     analyze_llm1_npy_for_dict(dir_path='./llm1',filelist_path='CrossHost_LLM_fasta_filelist1.txt') #read output from RNAErnie, save the dict  #vec length=768
