@@ -1,18 +1,8 @@
 import pandas as pd
 import numpy as np
-import csv
 from collections import defaultdict
-from sklearn.metrics import mean_squared_error
 from sklearn.utils import shuffle
-from sklearn.linear_model import LinearRegression
-from sklearn import neighbors
 from sklearn import ensemble
-from sklearn import linear_model
-from sklearn import svm
-from Bio import Entrez
-from Bio import SeqIO
-from Bio.Seq import Seq
-import re
 import pickle
 import warnings
 warnings.filterwarnings("ignore")
