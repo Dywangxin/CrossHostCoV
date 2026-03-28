@@ -12,7 +12,11 @@ Related data in this research including dataset, risk result, strain information
 
 # Requirements
 sklearn v0.24.2
+
 pandas v1.1.5
+
 numpy v1.19.5
+
 torch v1.8.1
-RNAErnie (manuscript at https://www.nature.com/articles/s42256-024-00836-4; src available at https://github.com/CatIIIIIIII/RNAErnie).
+
+For RNAErnie (manuscript at https://www.nature.com/articles/s42256-024-00836-4; src available at https://github.com/CatIIIIIIII/RNAErnie), its data processing output is required but you do not need to install it within the same environment.
